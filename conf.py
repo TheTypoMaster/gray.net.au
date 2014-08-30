@@ -282,7 +282,7 @@ REDIRECTIONS = []
 # To do manual deployment, set it to []
 # DEPLOY_COMMANDS = []
 DEPLOY_COMMANDS = [
-	'rsync -rav output/ grayneta@box573.bluehost.com:/home/grayneta/public_html'
+	'rsync -racv output/ grayneta@box573.bluehost.com:/home/grayneta/public_html'
 ]
 
 # For user.github.io/organization.github.io pages, the DEPLOY branch
