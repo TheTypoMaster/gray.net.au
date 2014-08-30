@@ -26,7 +26,7 @@ SITE_URL = "http://gray.net.au/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://gray.net.au"
 BLOG_EMAIL = "info@gray.net.au"
-BLOG_DESCRIPTION = "The Gray Matter...not the dark matter"  # (translatable)
+BLOG_DESCRIPTION = "The personal website and blog for the Gray Family"  # (translatable)
 
 # Nikola is multilingual!
 #
