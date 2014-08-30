@@ -21,13 +21,13 @@ derive a lot of pleasure from, such as SCUBA diving.  So I made a tough
 decision and resigned.
 
 My original plan was to use the time between work commitments to fulfil a
-long-term goal (so might say "dream") to become a SCUBA instructor.  The
+long-term goal (some might say "dream") to become a SCUBA instructor.  The
 course was booked, arrangements made, travel planned and paid for.  We were
 going to Port Vila, Vanuatu!  Note all this is past tense.  Less than one week
 from signing off at my last job I had an accident and badly broke my shoulder.
 All plans cancelled.
 
-So there is now this void between what I had planned, and the reality of the
+So now there is this void between what I had planned, and the reality of the
 current situation.  I can't even tie my own shoelaces or drive a car at the
 moment, let alone engage in anything as onerous as diving.  Consequently I
 have entered a bit of a holding pattern whilst I wait for my body to heal.
