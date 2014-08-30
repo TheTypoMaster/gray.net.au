@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+ <url>
+  <loc>http://gray.net.au/2014/index.html</loc>
+  <lastmod>2014-08-30</lastmod>
+ </url>
+ <url>
+  <loc>http://gray.net.au/archive.html</loc>
+  <lastmod>2014-08-30</lastmod>
+ </url>
+ <url>
+  <loc>http://gray.net.au/categories/blog.html</loc>
+  <lastmod>2014-08-30</lastmod>
+ </url>
+ <url>
+  <loc>http://gray.net.au/categories/index.html</loc>
+  <lastmod>2014-08-30</lastmod>
+ </url>
+ <url>
+  <loc>http://gray.net.au/categories/james.html</loc>
+  <lastmod>2014-08-30</lastmod>
+ </url>
+ <url>
+  <loc>http://gray.net.au/categories/site.html</loc>
+  <lastmod>2014-08-30</lastmod>
+ </url>
+ <url>
+  <loc>http://gray.net.au/galleries/index.html</loc>
+  <lastmod>2014-08-30</lastmod>
+ </url>
+ <url>
+  <loc>http://gray.net.au/index.html</loc>
+  <lastmod>2014-08-30</lastmod>
+ </url>
+ <url>
+  <loc>http://gray.net.au/posts/new-beginnings.html</loc>
+  <lastmod>2014-08-30</lastmod>
+ </url>
+ <url>
+  <loc>http://gray.net.au/posts/welcome-to-the-new-site.html</loc>
+  <lastmod>2014-08-30</lastmod>
+ </url>
+</urlset>
