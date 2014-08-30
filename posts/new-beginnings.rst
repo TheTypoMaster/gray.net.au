@@ -14,7 +14,7 @@ the east and west coasts!  It has been a good ride.
 
 However, as they say, all good things must come to an end and for me, the good
 times dried up over a year ago.  I have persisted in trying to rekindle that
-spark, but the reality is became my work/life balance was more a "work=life"
+spark, but the reality became my work/life balance was more a "work=life"
 equation.  I was spending progressively less time with my wonderful family,
 and even less time with my friends or indulging in activities I value and
 derive a lot of pleasure from, such as SCUBA diving.  So I made a tough
