@@ -1,0 +1,12 @@
+.htaccess
+.mailsubdom
+404.*
+500.*
+cgi-bin
+fusionspeech
+google*
+nautilus*
+old_site
+southernillawarracofc
+subdomains
+WhyLinuxSux.*

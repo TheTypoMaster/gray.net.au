@@ -282,7 +282,7 @@ REDIRECTIONS = []
 # To do manual deployment, set it to []
 # DEPLOY_COMMANDS = []
 DEPLOY_COMMANDS = [
-	'rsync -racv output/ grayneta@box573.bluehost.com:/home/grayneta/public_html'
+	'rsync -racv --exclude-from=destination-excluded.txt --delete output/ grayneta@box573.bluehost.com:/home/grayneta/public_html'
 ]
 
 # For user.github.io/organization.github.io pages, the DEPLOY branch
@@ -595,7 +595,7 @@ SOCIAL_BUTTONS_CODE = """
 # SHOW_SOURCELINK = True
 # Copy the source files for your pages?
 # Setting it to False implies SHOW_SOURCELINK = False
-# COPY_SOURCES = True
+COPY_SOURCES = False
 
 # Modify the number of Post per Index Page
 # Defaults to 10
