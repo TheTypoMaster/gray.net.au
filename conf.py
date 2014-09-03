@@ -405,7 +405,7 @@ FAVICONS = {
 }
 
 # Show only teasers in the index pages? Defaults to False.
-# INDEX_TEASERS = False
+INDEX_TEASERS = True
 
 # HTML fragments with the Read more... links.
 # The following tags exist and are replaced for you:
@@ -430,9 +430,9 @@ RSS_READ_MORE_LINK = '<p><a href="{link}">{read_more}…</a> ({min_remaining_rea
 # I recommend using the Creative Commons' wizard:
 # http://creativecommons.org/choose/
 LICENSE = """
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
+<p><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
 <img alt="Creative Commons License" style="border-width:0; margin-bottom:12px;"
-src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>"""
+src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a></p>"""
 # <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.5/ar/">
 # <img alt="Creative Commons License BY-NC-SA"
 # style="border-width:0; margin-bottom:12px;"
