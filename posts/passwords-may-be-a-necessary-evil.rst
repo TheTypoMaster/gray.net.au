@@ -16,7 +16,7 @@ secret though**; I don't remember my passwords *at all*.  My Facebook
 password? No idea.  Twitter account? Pfft, wouldn't have a clue.  Flickr
 account? Couldn't tell you. They are all randomly generated strings of
 letters, numbers, and symbols exceeding 20 characters.  Who the heck can
-remember that?!  Better still, how the heck to you crack or guess it either?!
+remember that?!  Better still, how the heck do you crack or guess it either?!
 And that is the entire point :)  Using a password strength checker like "`How
 Secure Is My Password <https://howsecureismypassword.net>`_" reveals my
 Facebook password would take "*a desktop PC about 14 duodecillion years to
