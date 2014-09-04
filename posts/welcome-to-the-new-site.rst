@@ -29,4 +29,4 @@ If you would like to see the old site, it's been put out to pasture over `here
 
 In the meantime, here's a panorama from a recent trip to Honiara :)
 
-.. media:: http://www.flickr.com/photos/mrclever/14857488896/
+.. media:: https://www.flickr.com/photos/mrclever/14857488896/
