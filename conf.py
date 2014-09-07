@@ -101,7 +101,7 @@ NAVIGATION_LINKS = {
 
 # Name of the theme to use.
 THEME = "bootstrap3"
-
+#THEME = "graymatter"  # Bit broken - need to tweak...not ready yet
 
 # Below this point, everything is optional
 
@@ -509,7 +509,7 @@ COMMENT_SYSTEM_ID = "thegraymatter"
 # If this is False
 # e.g. /2012 includes only /01, /02, /03, /04, ...: don't add it to the sitemap
 # if /2012 includes any files (including index.html)... add it to the sitemap
-# SITEMAP_INCLUDE_FILELESS_DIRS = True
+SITEMAP_INCLUDE_FILELESS_DIRS = True
 
 # List of files relative to the server root (!) that will be asked to be excluded
 # from indexing and other robotic spidering. * is supported. Will only be effective
