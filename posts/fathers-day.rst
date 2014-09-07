@@ -17,9 +17,9 @@ Not that long ago I read an article that really challenged me.  It presented
 the notion that children have a time in their lives when they still highly
 regard and respect their parents, are old enough to start to understand adult
 concepts and are still pliable in their thinking.  As they get older, and the
-teenage years set in, they become less likely to listen to their parents with
+teenage years set in, they become less likely to listen to their parents, with
 their values and beliefs beginning to crystallise into life-long shapes.  This
-precious window of influence varies from child to child be generally exists
+precious window of influence varies from child to child but generally exists
 between mid-primary to early high school.  My own children are either in or
 entering this time.
 
@@ -39,17 +39,17 @@ when people say "*discipline*" what they often mean is "*punishment*"; this
 isn't what I'm referring to.  Punishment can be a tool for achieving
 discipline, but isn't in and of itself discipline.  Doing what is expected of
 you, even when you may not want to, or when you aren't being supervised;
-**this** is discipline!  Now I am now far more involved in making sure the
-girls do exactly this.  Oddly enough, it doesn't need a lot shouting,
-threatening or waving a big stick.  In actuality, I find if I gently and
-assertively make certain the girls are operating and behaving in a way we deem
-appropriate, they are far more likely to continue in that pattern even when we
-aren't watching.  I give them lots of positive reinforcement, reward them when
-they do the right thing and be very generous with hugs.  The bonus is, I am
-setting a standard I hope they hold their future husbands to.  I hope they see
-the absence of violence, aggression and emotional manipulation as a hard
-necessity in the way any man treats them, but especially their future children
-(*not too soon though!*)
+**this** is discipline!  Now I am far more involved in making sure the girls
+do exactly this.  Oddly enough, it doesn't need a lot shouting, threatening or
+waving a big stick.  In actuality, I find if I gently and assertively make
+certain the girls are operating and behaving in a way we deem appropriate,
+they are far more likely to continue in that pattern even when we aren't
+watching.  I give them lots of positive reinforcement, reward them when they
+do the right thing and be very generous with hugs.  The bonus is, I am setting
+a standard I hope they hold their future husbands to.  I hope they see the
+absence of violence, aggression and emotional manipulation as a hard necessity
+in the way any man treats them, but especially their future children (*not too
+soon though!*)
 
 The other aspect I have noticed is with my relationship with my (long
 suffering) wife.  The extra support I can provide her with the domestic
