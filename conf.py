@@ -684,6 +684,7 @@ EXTRA_HEAD_DATA = """
 
 ga('create', 'UA-28692595-1', 'auto');
 ga('require', 'linkid', 'linkid.js');
+ga('require', 'displayfeatures');
 ga('set', 'forceSSL', true);        // Send all data using SSL, even from insecure (HTTP) pages.
 ga('send', 'pageview');
 </script>
