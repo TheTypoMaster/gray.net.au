@@ -87,18 +87,22 @@ and is triggered to run every 30 minutes:
 		var LogFile = "mail-purge.log";
 		var rootFolder = DocsList.getRootFolder();
 		var logs = rootFolder.find(LogFile);
-		var thisLog = logs[0];
+		var thisLog = logs[0]; // Assume the best...we'll confirm next.
 
-		if(logs.length == 0
-			// Didn't find the log file...create a new one.
+		if(logs.length == 0){
 			Logger.log("Creating new log file")
 			thisLog = DocsList.createFile(LogFile, "New log file");
 		} else {
-			// Log the fact we found an existing log - largely redundant, but I like it.
+			// The find call found "something" - let's get the correct index
+			for (var i in logs) {
+				if ( logs[i].getName() == LogFile ) {
+					// Found the correct file!
+					thisLog=logs[i];
+				}
+			}
 			Logger.log("Found existing log file " + thisLog.getName());
 		}
 
-		// Append the current internal log buffer to the file
 		thisLog.append(Logger.getLog());
 	};
 
