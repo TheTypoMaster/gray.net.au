@@ -6,7 +6,15 @@
 .. description: Automatically purge messages with different labels and custom ages.
 .. type: text
 
-I've been running an AppleScript to automatically purge messages in specific IMAP folders (aka "labels") for quite some time.  This approach works most of the time, but really puts a heck of a load on the Apple Mail client and makes the interface effectively unusable while the script goes through the motions.  This wasn't a problem when the script finished in a few seconds.  However, it now takes several minutes; not good.  Also, the AppleScript assumes a blanket expiry age for all IMAP folders.  Want one folder with a different expiry? Too bad.  So with the interface problems and lack of flexibility, I decided to smash something out this morning using Google Apps Scripting.
+I've been running an AppleScript to automatically purge messages in specific
+IMAP folders (aka "labels") for quite some time.  This approach works most of
+the time, but really puts a heck of a load on the Apple Mail client and makes
+the interface effectively unusable while the script goes through the motions.
+This wasn't a problem when the script finished in a few seconds.  However, it
+now takes several minutes; not good.  Also, the AppleScript assumes a blanket
+expiry age for all IMAP folders.  Want one folder with a different expiry? Too
+bad.  So with the interface problems and lack of flexibility, I decided to
+smash something out this morning using Google Apps Scripting.
 
 .. TEASER_END
 
@@ -17,7 +25,8 @@ I had some simple requirements for my new server-side script:
 * Allow fine-grain, per-label expiry age (in days)
 * Keep a plain text log file in my Google Drive.
 
-Behold! I offer the following, which achieves **all** the above requirements and is triggered to run every 30 minutes:
+Behold! I offer the following, which achieves **all** the above requirements
+and is triggered to run every 30 minutes:
 
 .. code-block:: javascript
 	:number-lines:
@@ -94,4 +103,7 @@ Behold! I offer the following, which achieves **all** the above requirements and
 	};
 
 
-I think it's pretty self explanatory.  The mechanisms for creating the script and firing it with time-based triggers I'll leave for a exercise for the reader.  If you really get stuck, drop a comment below and I'll see if I can help :)  Happy scripting folks!
+I think it's pretty self explanatory.  The mechanisms for creating the script
+and firing it with time-based triggers I'll leave for a exercise for the
+reader.  If you really get stuck, drop a comment below and I'll see if I can
+help :)  Happy scripting folks!
