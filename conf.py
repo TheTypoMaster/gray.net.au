@@ -683,6 +683,7 @@ EXTRA_HEAD_DATA = """
 })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 
 ga('create', 'UA-28692595-1', 'auto');
+ga('require', 'linkid', 'linkid.js');
 ga('set', 'forceSSL', true);        // Send all data using SSL, even from insecure (HTTP) pages.
 ga('send', 'pageview');
 </script>
@@ -690,25 +691,7 @@ ga('send', 'pageview');
 # Google Analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
 # (translatable)
-BODY_END = """
-<!--Google Analytics-->
-//<script type="text/javascript">
-//    var _gaq = _gaq || [];
-//        _gaq.push(['_setAccount', 'UA-28692595-1']);
-//        _gaq.push(['_setDomainName', 'gray.net.au']);
-//        _gaq.push(['_trackPageview']);
-//
-//    (function() {
-//        var ga = document.createElement('script');
-//        ga.type = 'text/javascript';
-//        ga.async = true;
-//        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-//        var s = document.getElementsByTagName('script')[0];
-//        s.parentNode.insertBefore(ga, s);
-//    })
-//    ();
-//</script>
-"""
+BODY_END = ""
 
 # The possibility to extract metadata from the filename by using a
 # regular expression.
