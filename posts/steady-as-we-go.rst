@@ -24,7 +24,7 @@ Recently my Grandmother passed away. She was 90 years old.  It wasn't entirely
 unexpected; her age and health meant it was merely a matter of time.  Her life
 was long and full of successes on many fronts.  I'm immensely proud of her and
 the legacy left in her wake.  I miss her but was privileged to be able to
-`read a eulogy </assets/files/eulogy-grandma.pdf>`_. on behalf of all the
+`read a eulogy </assets/files/eulogy-grandma.pdf>`_ on behalf of all the
 grandchildren.  It was quite cathartic to reminisce, taking a stroll through
 the memories and experiences we all shared with her as her grandchildren.
 
