@@ -20,7 +20,15 @@ beyond the supplied materials.  There is so much information available on the
 Internet!  I will get my instructor rating, as soon as I can safely slip into
 a wetsuit and shoulder a full set of gear.
 
-Really, I'm clutching at straws now - my life has been a bit like groundhog
-day, without the toaster in the bath tub obviously.  Lots of the same, and now
-I'm getting itchy to start something new and get out of the house a bit.  When
-that happens, I'll definitely have to write something up.
+Recently my Grandmother passed away. She was 90 years old.  It wasn't entirely
+unexpected; her age and health meant it was merely a matter of time.  Her life
+was long and full of successes on many fronts.  I'm immensely proud of her and
+the legacy left in her wake.  I miss her but was privileged to be able to
+`read a eulogy </assets/files/eulogy-grandma.pdf>`_. on behalf of all the
+grandchildren.  It was quite cathartic to reminisce, taking a stroll through
+the memories and experiences we all shared with her as her grandchildren.
+
+Really, I'm clutching at straws now - my life has been a bit like "Ground Hog
+Day", without the toaster in the bath tub obviously.  Lots of the same, and
+now I'm getting itchy to start something new and get out of the house a bit.
+When that happens, I'll definitely have to write something up.
