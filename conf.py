@@ -281,9 +281,9 @@ REDIRECTIONS = []
 # plugin (`nikola install_plugin ping`).
 # To do manual deployment, set it to []
 # DEPLOY_COMMANDS = []
-DEPLOY_COMMANDS = [
-	'rsync -racv --exclude-from=destination-excluded.txt --delete output/ grayneta@box573.bluehost.com:/home/grayneta/public_html'
-]
+DEPLOY_COMMANDS = {
+    u'default': [u'rsync -racv --exclude-from=destination-excluded.txt --delete output/ grayneta@box573.bluehost.com:/home/grayneta/public_html']
+}
 
 # For user.github.io/organization.github.io pages, the DEPLOY branch
 # MUST be 'master', and 'gh-pages' for other repositories.
