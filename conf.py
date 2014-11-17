@@ -238,7 +238,7 @@ COMPILERS = {
 # INDEX_PATH = ""
 
 # Create per-month archives instead of per-year
-# CREATE_MONTHLY_ARCHIVE = False
+CREATE_MONTHLY_ARCHIVE = True
 # Create one large archive instead of per-year
 # CREATE_SINGLE_ARCHIVE = False
 # Final locations for the archives are:
