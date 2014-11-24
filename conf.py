@@ -21,10 +21,10 @@ BLOG_AUTHOR = "James Gray"  # (translatable)
 BLOG_TITLE = "The Gray Matter"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link
-SITE_URL = "http://gray.net.au/"
+SITE_URL = "https://gray.net.au/"
 # This is the URL where nikola's output will be deployed.
 # If not set, defaults to SITE_URL
-# BASE_URL = "http://gray.net.au"
+# BASE_URL = "https://gray.net.au"
 BLOG_EMAIL = "info@gray.net.au"
 BLOG_DESCRIPTION = "The personal website and blog for the Gray Family"  # (translatable)
 
@@ -685,7 +685,7 @@ EXTRA_HEAD_DATA = """
 ga('create', 'UA-28692595-1', 'auto');
 ga('require', 'linkid', 'linkid.js');
 ga('require', 'displayfeatures');
-//ga('set', 'forceSSL', true);        // Send all data using SSL, even from insecure (HTTP) pages.
+ga('set', 'forceSSL', true);        // Send all data using SSL, even from insecure (HTTP) pages.
 ga('send', 'pageview');
 </script>
 """
