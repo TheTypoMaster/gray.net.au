@@ -34,7 +34,7 @@ Work Cover.  A horribly broken bureaucracy which incentivises the people
 running the system to focus on punting people (patients) out as soon as
 possible, by any means, regardless of their medical status.  Don't like what a
 specialist said? No worries, in Work Cover, they can just ignore that.
-CHanged diagnosis/prognosis?  Go ahead, ignore that too.  Want to make up your
+Changed diagnosis/prognosis?  Go ahead, ignore that too.  Want to make up your
 own "recovery schedules" in spite of all medical evidence and best practise to
 the contrary?  Knock yourself out.  If the patient or their medical team call
 Work Cover out on their bull shit, then they just send you off to see one of
@@ -43,7 +43,7 @@ probably accuse you of "faking it" and throw you out anyway.
 
 My medical team have been fighting to get Work Cover (actually, the insurer)
 to see reason but alas, it fell on deaf ears.  Today, barely 6 months into a
-rehabillitation regime that generally takes at *least* twive that long, I was
+rehabillitation regime that generally takes at *least* twice that long, I was
 sent off to see one of their doctors for an (anything but independant)
 independant review.  I don't know what the outcome will be, but this doctor
 was rude, arrogant, obstinant, refused to look at *any* specialist reports and
