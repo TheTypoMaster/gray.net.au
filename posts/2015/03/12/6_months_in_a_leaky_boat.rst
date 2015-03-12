@@ -1,4 +1,4 @@
-.. title: Six months ina leaky boat (called Work Cover)
+.. title: Six months in a leaky boat (called Work Cover)
 .. slug: 6_months_in_a_leaky_boat
 .. date: 2015-03-12 19:00:02 UTC+11:00
 .. tags: blog,James
