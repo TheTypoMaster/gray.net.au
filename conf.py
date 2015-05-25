@@ -284,7 +284,7 @@ REDIRECTIONS = []
 # To do manual deployment, set it to []
 # DEPLOY_COMMANDS = []
 DEPLOY_COMMANDS = {
-    u'default': [u'rsync -racv --exclude-from=destination-excluded.txt --delete output/ grayneta@box573.bluehost.com:/home/grayneta/public_html']
+    u'default': [u'rsync -racv --exclude-from=destination-excluded.txt --delete --chmod=Du=rwx,Dg=rx,Do=rx,Fu=rw,Fg=r,Fo=r -p output/ grayneta@box573.bluehost.com:/home/grayneta/public_html']
 }
 
 # For user.github.io/organization.github.io pages, the DEPLOY branch
