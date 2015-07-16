@@ -200,10 +200,12 @@ dangerous thing espeically if you have banked any deco time.  Learn from my
 experience.
 
 Having said all this, as a rescue diver, if I was faced with the same
-circumstances again, I would do the same thing again.  Uncontrolled ascent with
-deco time is a guaranteed recipe for severe injury or death.  A rapid ascent is
-dangerous and can cause DCS, but I'd rather have DCS than a dead diver on my
-conscience.
+circumstances again, would I do the same thing again? **No**. Uncontrolled ascent
+with deco time is a guaranteed recipe for severe injury or death.  A rapid ascent
+is dangerous and can cause DCS.  However, the first rule of rescue is:
+**DON'T BECOME THE NEXT CASUALTY!**
+I'd have an injured diver to deal with (or worse), but I am not putting myself in
+a position where I end up in the pot instead of the person I'm trying to help.
 
 Disclaimer
 ----------
