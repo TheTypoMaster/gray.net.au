@@ -1,0 +1,173 @@
+!Chassis type: C837 - a C837 router
+!CPU: MPC857DSL
+!
+!Memory: main 58983K/6553K
+!Memory: nvram 128K
+!
+!
+!Image: Software: C837-K9O3SY6-M, 12.4(25d), RELEASE SOFTWARE (fc1)
+!Image: Compiled: Wed 18-Aug-10 12:51 by prod_rel_team
+!Image: flash:c837-k9o3sy6-mz.124-25d.bin
+!
+!ROM Bootstrap: Version 12.2(11r)YV3, RELEASE SOFTWARE (fc2)
+!Flash: System flash directory:
+!Flash: File  Length   Name/status
+!Flash:   1   10068188  c837-k9o3sy6-mz.124-25d.bin  
+!Flash: [10068252 bytes used, 2252512 available, 12320764 total]
+!Flash: 12288K bytes of processor board System flash (Read/Write)
+!
+!Flash: nvram: Directory of nvram:/
+!Flash: nvram:   123  -rw-        4357                    <no date>  startup-config
+!Flash: nvram:   124  ----        1915                    <no date>  private-config
+!Flash: nvram:     1  -rw-           0                    <no date>  ifIndex-table
+!Flash: nvram:     2  ----          12                    <no date>  persistent-data
+!Flash: nvram: 131072 bytes total (122700 bytes free)
+!
+!NAME: "FastEthernet1",         DESCR: "FastEthernet"
+!NAME: "FastEthernet2",         DESCR: "FastEthernet"
+!NAME: "FastEthernet3",         DESCR: "FastEthernet"
+!NAME: "FastEthernet4",         DESCR: "FastEthernet"
+!NAME: "Ethernet0",             DESCR: "PQUICC Ethernet"
+!NAME: "ATM0",                  DESCR: "PQUICC_SAR (with Alcatel ADSL Module)"
+!NAME: "Ethernet2",             DESCR: "PQUICC Ethernet"
+!NAME: "AT0-interleave",        DESCR: "ATM0-interleave"
+!NAME: "AT0-fast",              DESCR: "ATM0-fast"
+!NAME: "AT0-adsl",              DESCR: "ATM0-adsl"
+!
+!
+config-register 0x2102
+!
+version 12.4
+no service pad
+service timestamps debug datetime msec
+service timestamps log datetime localtime
+service password-encryption
+!
+hostname router
+!
+boot-start-marker
+boot-end-marker
+!
+no logging console
+no logging monitor
+enable secret CHANGE-ME-somethingSecret
+!
+no aaa new-model
+clock timezone EAST 10
+!
+ip cef
+ip domain name CHANGE-ME-example.com
+ip name-server x.x.x.x
+ip name-server x.x.x.x
+ip name-server x.x.x.x
+ip inspect name INTERNET-OUT tcp alert on audit-trail on
+ip inspect name INTERNET-OUT udp alert on audit-trail on
+ip inspect name INTERNET-OUT icmp alert on audit-trail on
+ip auth-proxy max-nodata-conns 3
+ip admission max-nodata-conns 3
+!
+interface Ethernet0
+ description LAN Interface
+ ip address 10.0.0.1 255.255.255.0
+ ip nat inside
+ ip virtual-reassembly
+ hold-queue 100 out
+!
+interface Ethernet2
+ no ip address
+ shutdown
+ hold-queue 100 out
+!
+interface ATM0
+ no ip address
+ no atm ilmi-keepalive
+ dsl operating-mode auto
+ pvc 8/35 
+  encapsulation aal5mux ppp dialer
+  dialer pool-member 1
+ !
+!
+interface FastEthernet1
+ description Switch Port 1
+ duplex auto
+ speed auto
+!
+interface FastEthernet2
+ description Switch Port 2
+ duplex auto
+ speed auto
+!
+interface FastEthernet3
+ description Switch Port 3
+ duplex auto
+ speed auto
+!
+interface FastEthernet4
+ description Switch Port 4
+ duplex auto
+ speed auto
+!
+interface Dialer1
+ description Internet Interface
+ ip address negotiated
+ ip access-group INTERNET-IN in
+ ip access-group INTERNET-OUT out
+ ip nat outside
+ ip inspect INTERNET-OUT out
+ ip virtual-reassembly
+ encapsulation ppp
+ dialer pool 1
+ dialer-group 1
+ ppp authentication chap callin
+ ppp chap hostname CHANGE-ME-adsl-username
+ ppp chap password CHANGE-ME-adsl-password
+!
+ip forward-protocol nd
+ip route 0.0.0.0 0.0.0.0 Dialer1
+!
+no ip http server
+no ip http secure-server
+!
+ip nat inside source list NAT interface Dialer1 overload
+ip nat inside source static tcp 10.0.0.50 80 interface Dialer1 80
+ip nat inside source static tcp 10.0.0.50 443 interface Dialer1 443
+!
+ip access-list extended INTERNET-IN
+ permit tcp any any eq www
+ permit tcp any any eq 443
+ deny   tcp any any range 0 65535 log
+ deny   udp any any range 0 65535 log
+ deny   udp any any log
+ip access-list extended INTERNET-OUT
+ permit ip any any
+ip access-list extended NAT
+ permit ip 10.0.0.0 0.0.0.255 any
+ip access-list extended VTY-LOCKDOWN
+ permit tcp 10.0.0.0 0.0.0.255 any eq 22 log
+ deny   tcp any any eq 22
+ permit ip any any
+logging facility local1
+logging 10.0.0.5
+access-list 1 permit 10.0.0.0 0.0.0.255
+dialer-list 1 protocol ip permit
+snmp-server community public RO
+snmp-server location CHANGE-ME-Router Location
+snmp-server contact CHANGE-ME-Router contact
+snmp-server enable traps tty
+!
+control-plane
+!
+line con 0
+ no modem enable
+line aux 0
+line vty 0 4
+ access-class VTY-LOCKDOWN in
+ privilege level 15
+ password CHANGE-ME-vty-password
+ login local
+ transport input ssh
+!
+scheduler max-task-time 5000
+ntp source Ethernet0
+ntp server 10.0.0.5
+end
