@@ -1,7 +1,7 @@
 .. title: Come fly with me! Come fly, come fly away....
 .. slug: Come_fly_with_me
 .. date: 2005-01-17 13:43:00 UTC+10:00
-.. tags: James,blog
+.. tags: James,blog,aviation
 .. category: 
 .. link: 
 

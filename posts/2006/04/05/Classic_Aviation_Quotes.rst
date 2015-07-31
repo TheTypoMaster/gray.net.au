@@ -1,7 +1,7 @@
 .. title: Classic Aviation Quotes
 .. slug: Classic_Aviation_Quotes
 .. date: 2006-04-05 16:52:00 UTC+10:00
-.. tags: funny,blog,James
+.. tags: funny,blog,James,aviation
 .. category: 
 .. link: 
 

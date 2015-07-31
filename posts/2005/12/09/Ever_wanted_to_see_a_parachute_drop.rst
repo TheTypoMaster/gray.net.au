@@ -1,7 +1,7 @@
 .. title: Ever wanted to see a parachute drop?
 .. slug: Ever_wanted_to_see_a_parachute_drop
 .. date: 2005-12-09 14:26:00 UTC+10:00
-.. tags: James,blog
+.. tags: James,blog,aviation
 .. category: 
 .. link: 
 
