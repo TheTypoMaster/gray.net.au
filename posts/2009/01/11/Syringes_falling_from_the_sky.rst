@@ -7,29 +7,29 @@
 
 Found this in today's news from Fairfax media:
 
-*"January 11, 2009 Eamonn Duff
+*"January 11, 2009 Eamonn Duff*
 
-USERS of the Cross City Tunnel have been warned of the risk of needles
+*USERS of the Cross City Tunnel have been warned of the risk of needles
 being dropped by drug addicts who frequent a Sydney suburb directly
-above.
+above.*
 
-Syringe signs have been installed along the southbound ramp connecting
-the tunnel and the Eastern Distributor.
+*Syringe signs have been installed along the southbound ramp connecting
+the tunnel and the Eastern Distributor.*
 
-A tunnel spokesman said the signs were erected because an area in
+*A tunnel spokesman said the signs were erected because an area in
 Darlinghurst directly above the partially-roofed link had become "a
-hot spot for injecting".
+hot spot for injecting".*
 
-"Syringes are frequently disposed [of] in this area, causing a
-potential safety hazard," the spokesman said.
+*"Syringes are frequently disposed [of] in this area, causing a
+potential safety hazard," the spokesman said.*
 
-The laneway, between Palmer and Bourke streets, has attracted users
-since it was created as a result of the tunnel's construction in 2005.
+*The laneway, between Palmer and Bourke streets, has attracted users
+since it was created as a result of the tunnel's construction in 2005.*
 
-At night, drug users congregate along the dimly lit path to inject
-drugs including heroin and ice."
+*At night, drug users congregate along the dimly lit path to inject
+drugs including heroin and ice."*
 
-`Original source`_.*
+`Original source`_.
 
 I can see it now, some poor bastard on a motorbike (more likely a
 scooter) innocently meandering their way through the catastrophe that
