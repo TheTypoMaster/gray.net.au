@@ -14,6 +14,8 @@ me - the log format of the new router was completely different to the
 old one and as a result, my DShield script completely exploded. Not
 a huge problem, time to indulge my Perl regex geekiness and fix it!
 
+.. TEASER_END
+
 First of all there are a few prerequisites:
 
 #. Configure the Cisco 837 to log failed access to my syslog server

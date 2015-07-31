@@ -16,6 +16,7 @@ that it has a complete command line interface that allows you to do
 all sorts of phunky things. In my case, I need to synchronise two
 iPhoto installations. However, my needs are fairly simple:
 
+.. TEASER_END
 
 #. I only change one iPhoto library at a time (either I'm working at
    home, or remotely). So this mean I will only ever need to merge

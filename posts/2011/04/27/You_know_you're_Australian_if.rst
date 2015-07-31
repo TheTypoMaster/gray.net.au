@@ -5,6 +5,10 @@
 .. category: 
 .. link: 
 
+**A swag of truisms to test your True Blue, Aussie status!**
+
+.. TEASER_END
+
 * You believe that stubbies can be either drunk or worn.
 * You waddle when you walk due to the 53 expired petrol discount vouchers
   stuffed in your wallet or purse.
