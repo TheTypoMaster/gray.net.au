@@ -25,4 +25,4 @@ from my ~/Library/Mail/Bundles directory, and everything is working
 again (except Growl notifying me of new mail). I can live with that.
 
 So it's over to the Growl devs (who normally respond fairly quickly to
-this sort of thing) - FIX IT!!:-/
+this sort of thing) - FIX IT!! :-/
