@@ -1,5 +1,5 @@
-.. title: The day after...
-.. slug: The_day_after...
+.. title: The day after
+.. slug: The_day_after
 .. date: 2005-06-24 11:30:00 UTC+10:00
 .. tags: James,blog
 .. category: 
