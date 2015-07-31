@@ -12,7 +12,7 @@ Safari 4 Beta a run and the reviews about speed and features over
 Safari 3 were extremely enticing. So given the Macbook Pro was the
 least critical of the two boxes, I upgraded to OSX 10.5.7 and made
 sure everything was peachy - it was. Next upgraded to Safari 4 Beta.
-Wow! It's fast, stable, has a really cool "TopSites" tab (that comes
+Wow! It's fast, stable, has a really cool "Top Sites" tab (that comes
 up when I open a new tab, and many other features you can read about
 elsewhere.
 
