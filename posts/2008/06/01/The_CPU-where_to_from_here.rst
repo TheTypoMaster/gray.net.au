@@ -20,8 +20,6 @@ the initial design goals of the component in question.
 
 .. TEASER_END
 
-.. image:: http://fastra.ua.ac.be/images/pic_internal.jpg: http://fastra.ua.ac.be/images/pic_internal.jpg
-
 For instance, most people are unaware that their video card has a
 highly specialised processor call a "Graphics Processing Unit" (GPU).
 The GPU, unlike the CPU is designed for a set of very specific
@@ -67,17 +65,7 @@ programmers and system engineers can find new and innovative ways to
 implement them to augment and enhance overall system performance in
 specialised ways.
 
-* Credits: *
-
-
-+ Image of computer system above:
-  `http://fastra.ua.ac.be/images/pic_internal.jpg`_ While you're there,
-  check out all the images and screen shots etc. of this `tiny super
-  computer`_
-
-
 .. _capable of super-computer speeds, using commodity graphics cards totalling eight GPU's: http://www.dvhardware.net/article27538.html
 .. _CUDA: http://www.nvidia.com/object/cuda_home.html
 .. _Belgium at the University of Antwerp: http://visielab.ua.ac.be/
 .. _tiny super computer: http://fastra.ua.ac.be/en/images.html
-.. _image: http://fastra.ua.ac.be/images/pic_internal.jpg: http://fastra.ua.ac.be/images/pic_internal.jpg

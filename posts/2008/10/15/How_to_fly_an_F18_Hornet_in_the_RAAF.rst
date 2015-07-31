@@ -32,7 +32,7 @@ drive I thought I'd erased. Enjoy
 #. To enter the aircraft, approach it from the left side and leap
    lightly onto the access ladder without looking.
 #. Pick yourself up off the tarmac, carefully replace the access
-   ladder, then climb the steps. ( *Note: try to control the tense
+   ladder, then climb the steps. (*Note: try to control the tense
    feeling in your stomach, and above all, don't look down This is the
    most difficult part of the whole flight and must be done with
    precision*). Enter the cockpit in any manner you choose, except that
@@ -41,7 +41,7 @@ drive I thought I'd erased. Enjoy
    sort out and arrange oxygen hoses, radio leads, shoulder straps, hard
    hats (bone-dome), gloves, knee pads, seat pins, inflateable life
    rafts, gum wrappers, old issues of "Ralph" and "FHM", and any other
-   loose articles he may find in the *censored*pit.
+   loose articles he may find in the cockpit.
 #. Next, check the throttle positions. If the stick is in your left
    hand and the thrust levers are in your right hand, you're in the
    cockpit backwards. Don't panic; smile at the crew chief, wave to

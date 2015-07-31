@@ -5,7 +5,7 @@
 .. category: 
 .. link: 
 
-I've seen a lot of posts about how to get `Compiz`_+`Emerald`_ working
+I've seen a lot of posts about how to get `Compiz`_ and `Emerald`_ working
 together in `Kubuntu`_ that involves a lot of poking around and
 creating scripts etc. However, there is a "better" way that is from
 what I can see, the K/Ubuntu preferred method. First some background.

@@ -30,7 +30,7 @@ people are genuinely surprised that I have come through this without
 being bitter and twisted. My only response to those sort of comments
 has been to point people to the source of my strength:
 
-* Isaiah 40:31 (New International Version) but those who hope in the
+*Isaiah 40:31 (New International Version) but those who hope in the
 LORD
 will renew their strength.
 They will soar on wings like eagles;

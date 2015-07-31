@@ -1,11 +1,11 @@
 .. title: Power Outage
 .. slug: Power_Outage
 .. date: 2004-03-31 11:47:00 UTC+10:00
-.. tags: tech
+.. tags: tech,site
 .. category: 
 .. link: 
 
-This morning ( Wednesday 31st March, 2004 ) I lost all power to all my
+This morning (*Wednesday 31st March, 2004*) I lost all power to all my
 machines. This meant **The Gray Matter** and a few other sites were
 down for about 2 hours while I sorted out the mess that was caused by
 simultaneously pulling the plug on every machine in my network!
