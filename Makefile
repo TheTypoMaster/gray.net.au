@@ -1,4 +1,4 @@
-all: clean build deploy
+all: build deploy
 
 clean:
 	rm output/site*.xml
