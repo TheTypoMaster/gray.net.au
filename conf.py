@@ -564,7 +564,8 @@ INDEXES_STATIC = False
 # Note that in case INDEXES_PAGES_MAIN is set to True, a redirection will be created
 # for the full URL with the page number of the main page to the normal (shorter) main
 # page URL.
-INDEXES_PRETTY_PAGE_URL = True
+#INDEXES_PRETTY_PAGE_URL = False
+INDEXES_PRETTY_PAGE_URL = ['page', '{number}', '{index_file}']
 
 # Color scheme to be used for code blocks. If your theme provides
 # "assets/css/code.css" this is ignored.
@@ -572,7 +573,7 @@ INDEXES_PRETTY_PAGE_URL = True
 # algol
 # algol_nu
 # arduino
-# autumn
+# autumnnikola deploy
 # borland
 # bw
 # colorful
@@ -874,7 +875,7 @@ COPY_SOURCES = False
 # This search form works for any site and looks good in the "site" theme where
 # it appears on the navigation bar:
 #
- SEARCH_FORM = """
+SEARCH_FORM = """
 <!-- DuckDuckGo custom search -->
 <form method="get" id="search" action="//duckduckgo.com/"
  class="navbar-form pull-left">
