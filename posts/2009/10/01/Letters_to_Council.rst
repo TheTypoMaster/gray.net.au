@@ -32,7 +32,7 @@ Aussies are uncultured!
    colour and not fit to drink.
 #. Our lavatory seat is broken in half and is now in three pieces.
 #. I want to complain about the farmer across the road, every morning
-   at 6:00am his *censored*wakes me up and its now getting too much for
+   at 6:00am his cock wakes me up and its now getting too much for
    me.
 #. The man next door has a large erection in the garden, which is
    unsightly and dangerous.
