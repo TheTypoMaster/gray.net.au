@@ -14,7 +14,7 @@ this new shiny site. Consequently I grabbed all the stories I thought were
 relevent (over 100) and ported them from HTML to `reStructuredText`_ and dropped
 them in.  However, I still need to recreate the galleries and other content
 so as time (and bandwidth) permits, I'll start uploading them.  In the meantime
-any attempt to go to the `old site </old_site>`_ will just redirect back here.
+any attempt to go to the old site will just redirect back here.
 
 So long Geeklog/GLFusion, you were a fun ride, but it's time to move on. :)
 
