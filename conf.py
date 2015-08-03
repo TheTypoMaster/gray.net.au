@@ -131,8 +131,8 @@ NAVIGATION_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "GrayMatter"
-#THEME = "bootstrap"
+#THEME = "GrayMatter"
+THEME = "bootstrap"
 
 # Below this point, everything is optional
 
@@ -414,7 +414,7 @@ REDIRECTIONS = []
 # }
 DEPLOY_COMMANDS = {
     'default': [
-        'rsync -racv --exclude-from=destination-excluded.txt --delete --chmod=Du=rwx,Dg=rx,Do=rx,Fu=rw,Fg=r,Fo=r -p output/ bluehost:/home/grayneta/public_html'
+        'rsync -racv --exclude-from=destination-excluded.txt --delete --progress --chmod=Du=rwx,Dg=rx,Do=rx,Fu=rw,Fg=r,Fo=r -p output/ bluehost:/home/grayneta/public_html'
     ]
 }
 
