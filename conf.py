@@ -131,8 +131,8 @@ NAVIGATION_LINKS = {
 }
 
 # Name of the theme to use.
-#THEME = "GrayMatter"
-THEME = "bootstrap"
+#THEME = "bootstrap"
+THEME = "custom"
 
 # Below this point, everything is optional
 

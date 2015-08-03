@@ -6996,3 +6996,13 @@ button.close {
 .panel-primary .panel-title {
   color: #fff;
 }
+
+.at4-share-title {
+  color: #F5F5F5 !important;
+  font-weight: bold;
+}
+
+.at-follow-label {
+  color: #F5F5F5 !important;
+  font-weight: bold;
+}
