@@ -1,8 +1,8 @@
 .. title: Southern Cross Cable Damaged
 .. slug: Southern_Cross_Cable_Damaged
 .. date: 2007-12-04 17:00:00 UTC+10:00
-.. tags: tech,blog,James
-.. category: 
+.. tags: tech,blog,network
+.. category: James
 .. link: 
 
 I've just received an e-mail from an ISP we manage at work that the

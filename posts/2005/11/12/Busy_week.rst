@@ -1,8 +1,8 @@
 .. title: Busy week!
 .. slug: Busy_week
 .. date: 2005-11-12 16:03:00 UTC+10:00
-.. tags: James,blog
-.. category: 
+.. tags: blog, health
+.. category: James
 .. link: 
 
 It's been an extordinarily busy week with work taking me places I

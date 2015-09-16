@@ -2,7 +2,7 @@
 .. slug: Gray_Matter_Music
 .. date: 2003-09-01 13:34:13 UTC+10:00
 .. tags: music
-.. category: 
+.. category: Site
 .. link: 
 
 Gray Matter Music - this is **not** the right place. You want to go

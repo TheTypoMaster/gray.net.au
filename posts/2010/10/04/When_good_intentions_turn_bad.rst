@@ -1,8 +1,8 @@
 .. title: When good intentions turn bad
 .. slug: When_good_intentions_turn_bad
 .. date: 2010-10-04 03:34:20 UTC+10:00
-.. tags: tech,blog,James
-.. category: 
+.. tags: tech,blog,email
+.. category: Site
 .. link: 
 
 If anyone is wondering what the heck happened to the weather

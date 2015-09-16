@@ -1,8 +1,8 @@
 .. title: Easter long weekend
 .. slug: Easter_long_weekend
 .. date: 2004-04-12 16:07:00 UTC+10:00
-.. tags: blog, James
-.. category: 
+.. tags: blog, water skiing, friends
+.. category: James
 .. link: 
 
 Wow! What a busy weekend. We went skiing went down to Chris and Nic's

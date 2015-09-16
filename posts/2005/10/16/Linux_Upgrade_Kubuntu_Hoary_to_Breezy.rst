@@ -1,8 +1,8 @@
 .. title: Linux Upgrade: Kubuntu Hoary to Breezy
 .. slug: Linux_Upgrade__Kubuntu_Hoary_to_Breezy
 .. date: 2005-10-16 11:16:00 UTC+10:00
-.. tags: James,blog,tech
-.. category: 
+.. tags: Linux,blog,tech
+.. category: James
 .. link: 
 
 It seems the kernel update that was published a week or so ago by the

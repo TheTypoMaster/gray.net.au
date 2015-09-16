@@ -1,7 +1,8 @@
 .. title: Welcome to the new site!
 .. slug: welcome-to-the-new-site
 .. date: 2014-08-20 13:18:38 UTC+10:00
-.. tags: site
+.. tags: web
+.. cetegory: Site
 .. link: 
 .. description: 
 .. type: text

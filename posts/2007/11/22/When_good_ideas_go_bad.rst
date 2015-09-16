@@ -1,8 +1,8 @@
 .. title: When good ideas go bad
 .. slug: When_good_ideas_go_bad
 .. date: 2007-11-22 17:40:00 UTC+10:00
-.. tags: tech,blog,James
-.. category: 
+.. tags: tech,blog,security
+.. category: James
 .. link: 
 
 As many people know, I run a mail system for myself and a few other
@@ -12,8 +12,11 @@ backend being driven by Mac OSX and `postfix`_, `mailscanner`_,
 gaining a lot of experience and respect for a bundled open source
 platform called Zimbra. So I thought I could kill two birds with a one
 nuke and drop Zimbra onto a new Linux-powered machine. In principle,
-this was (and still is) a good idea. It provides me, as an
-administrator, a number of benefits such as:
+this was (and still is) a good idea.
+
+.. TEASER_END
+
+It provides me, as an administrator, a number of benefits such as:
 
 + Centralised user/account management
 + Extremely simple deployment of virtual domains etc

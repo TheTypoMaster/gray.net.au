@@ -1,8 +1,8 @@
 .. title: What is wrong with the world??
 .. slug: What_is_wrong_with_the_world
 .. date: 2005-11-30 14:17:00 UTC+10:00
-.. tags: James,blog
-.. category: 
+.. tags: blog,politics
+.. category: James
 .. link: 
 
 Whilst cruising through my Google News RSS feed I ran into this story

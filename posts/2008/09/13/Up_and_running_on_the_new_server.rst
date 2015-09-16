@@ -1,13 +1,13 @@
 .. title: Up and running on the new server!
 .. slug: Up_and_running_on_the_new_server
 .. date: 2008-09-13 14:49:00 UTC+10:00
-.. tags: site,blog,James
-.. category: 
+.. tags: tech,network
+.. category: Site
 .. link: 
 
 Some people may be aware that my `old ISP`_ decided to increase my
 monthly access from $120/mth (paid quarterly in advance) to $500/mth!!
-Consequently I told them to shove it and went with the only real
+Consequently I told them to shove it and went with the **only** real
 alternative in my area...Telstra Wireless 3G. It's expensive at
 $130/mth for 10GB but it's fast and reliable (surprisingly fast
 actually)...which is a LOT more than I can say for my old ISP. As

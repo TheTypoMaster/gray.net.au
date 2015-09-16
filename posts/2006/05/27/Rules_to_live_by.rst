@@ -2,7 +2,7 @@
 .. slug: Rules_to_live_by
 .. date: 2006-05-27 14:50:00 UTC+10:00
 .. tags: funny
-.. category: 
+.. category: James
 .. link: 
 Here's 22 simple rules and insights that if you follow will make so
 much more comfortable (or at least explain a lot of the crap that goes

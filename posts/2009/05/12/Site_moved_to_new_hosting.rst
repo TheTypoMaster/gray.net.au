@@ -1,8 +1,8 @@
 .. title: Site moved to new hosting
 .. slug: Site_moved_to_new_hosting
 .. date: 2009-05-12 02:42:55 UTC+10:00
-.. tags: site,tech
-.. category: 
+.. tags: servers,tech,network,web
+.. category: Site
 .. link: 
 
 The Gray Matter is now up and running with the fine folk at

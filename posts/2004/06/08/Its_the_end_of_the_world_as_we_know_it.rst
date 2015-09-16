@@ -1,8 +1,8 @@
 .. title: It's the end of the world as we know it... (Queue R.E.M.)
 .. slug: Its_the_end_of_the_world_as_we_know_it
 .. date: 2004-06-08 13:50:00 UTC+10:00
-.. tags: James,blog
-.. category: 
+.. tags: blog, parenting
+.. category: James
 .. link: 
 
 About 7 weeks from now (barring any complications) I'll be a real dad;

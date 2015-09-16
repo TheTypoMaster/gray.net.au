@@ -1,8 +1,8 @@
 .. title: Go, go, go...... STOP!!!
 .. slug: Go_go_go......STOP
 .. date: 2004-07-21 23:38:00 UTC+10:00
-.. tags: James,blog
-.. category: 
+.. tags: blog, parenting
+.. category: James
 .. link:
 
 A routine weekly visit to our obstetrician today went awry and now

@@ -1,8 +1,8 @@
 .. title: New hardware
 .. slug: New_hardware
 .. date: 2006-04-02 02:26:00 UTC+10:00
-.. tags: site
-.. category: 
+.. tags: servers,OSX,Apple
+.. category: Site
 .. link: 
 
 The process has begun! Today I lashed out and bought a new Mac Mini

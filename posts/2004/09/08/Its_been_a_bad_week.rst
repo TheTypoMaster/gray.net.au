@@ -1,8 +1,8 @@
 .. title: It's been a bad week :(
 .. slug: Its_been_a_bad_week
 .. date: 2004-09-08 17:12:00 UTC+10:00
-.. tags: site, tech
-.. category: 
+.. tags: tech, servers, DoS
+.. category: Site
 .. link: 
 
 Anyone who uses my mail server will know this has been a bad week.

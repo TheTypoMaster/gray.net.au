@@ -1,8 +1,8 @@
 .. title: IT'S HERE!!
 .. slug: ITS_HERE
 .. date: 2004-07-24 00:39:00 UTC+10:00
-.. tags: James,blog
-.. category: 
+.. tags: blog, parenting
+.. category: James
 .. link: 
 
 It's happened! We're FINALLY parents!! Natalie delivered our first

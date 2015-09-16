@@ -1,8 +1,8 @@
 .. title: Flying Truisms
 .. slug: Flying_Truisms
 .. date: 2006-10-13 16:01:00 UTC+10:00
-.. tags: funny,James
-.. category: 
+.. tags: funny,aviation
+.. category: James
 .. link: 
 
 Another batch that's been around for a while, but worth keeping!

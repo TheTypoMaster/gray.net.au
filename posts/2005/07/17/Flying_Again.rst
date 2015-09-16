@@ -1,8 +1,8 @@
 .. title: Flying Again :)
 .. slug: Flying_Again
 .. date: 2005-07-17 15:56:00 UTC+10:00
-.. tags: James,blog,aviation
-.. category: 
+.. tags: blog,aviation
+.. category: James
 .. link: 
 
 I went flying today with two good friends; Andrew and Michelle. It was

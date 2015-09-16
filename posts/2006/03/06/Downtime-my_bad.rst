@@ -1,8 +1,8 @@
 .. title: Downtime....my bad
 .. slug: Downtime-my_bad
 .. date: 2006-03-06 22:28:00 UTC+10:00
-.. tags: site,tech
-.. category: 
+.. tags: downtime,tech
+.. category: Site
 .. link: 
 
 Gah - whilst trying to help out a friend, I inadvertently modified the

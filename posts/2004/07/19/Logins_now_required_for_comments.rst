@@ -1,8 +1,8 @@
 .. title: Logins now required for comments
 .. slug: Logins_now_required_for_comments
 .. date: 2004-07-19 21:54:11 UTC+10:00
-.. tags: site
-.. category: 
+.. tags: security
+.. category: Site
 .. link: 
 
 Well it had to happen eventually, but I'm still annoyed! Seems some

@@ -1,8 +1,8 @@
 .. title: Holiday Report
 .. slug: Holiday_Report
 .. date: 2003-12-19 13:53:00 UTC+10:00
-.. tags: blog, James
-.. category: 
+.. tags: blog, holidays
+.. category: James
 .. link: 
 
 Well we're back from holidays!!  OK so Nat and I got away with our

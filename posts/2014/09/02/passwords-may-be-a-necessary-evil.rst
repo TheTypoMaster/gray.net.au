@@ -1,7 +1,8 @@
 .. title: Passwords may be a necessary evil...
 .. slug: passwords-may-be-a-necessary-evil
 .. date: 2014-09-02 18:49:25 UTC+10:00
-.. tags: blog,tech
+.. tags: blog,tech,security
+.. category: James
 .. link: 
 .. description: Dashlane Password Manager
 .. type: text
@@ -17,11 +18,14 @@ password? No idea.  Twitter account? Pfft, wouldn't have a clue.  Flickr
 account? Couldn't tell you. They are all randomly generated strings of
 letters, numbers, and symbols exceeding 20 characters.  Who the heck can
 remember that?!  Better still, how the heck do you crack or guess it either?!
-And that is the entire point :)  Using a password strength checker like "`How
-Secure Is My Password <https://howsecureismypassword.net>`_" reveals my
-Facebook password would take "*a desktop PC about 14 duodecillion years to
-crack your password*"...however long that that is, but pretty sure it exceeds
-the heat death of the universe!
+And that is the entire point :)
+
+.. TEASER_END
+
+Using a password strength checker like "`How Secure Is My Password
+<https://howsecureismypassword.net>`_" reveals my Facebook password would take
+"*a desktop PC about 14 duodecillion years to crack your password*"...however
+long that that is, but pretty sure it exceeds the heat death of the universe!
 
 So how do I do it?  I make the computer do the work for me.  In my case, I use
 a program called "`1Password <https://agilebits.com/onepassword>`_" which is

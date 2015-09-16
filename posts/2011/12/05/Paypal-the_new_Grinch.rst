@@ -1,8 +1,8 @@
 .. title: Paypal - the new Grinch!
 .. slug: Paypal-the_new_Grinch
 .. date: 2011-12-05 22:57:04 UTC+10:00
-.. tags: blog,James
-.. category: 
+.. tags: blog,web
+.. category: James
 .. link: 
 
 Have you heard the news? PayPal has decided that donating gifts and money to

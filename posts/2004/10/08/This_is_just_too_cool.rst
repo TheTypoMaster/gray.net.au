@@ -1,8 +1,8 @@
 .. title: This is just too cool!
 .. slug: This_is_just_too_cool
 .. date: 2004-10-08 12:36:00 UTC+10:00
-.. tags: tech, blog, James
-.. category: 
+.. tags: tech, blog, environment, solar
+.. category: James
 .. link: 
 
 OK, so my "inner geek" is coming out, but this is just too cool:

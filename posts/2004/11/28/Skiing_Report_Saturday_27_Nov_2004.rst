@@ -1,8 +1,8 @@
 .. title: Skiing Report - Saturday 27th, Nov. 2004
 .. slug: Skiing_Report_Saturday_27_Nov_2004
 .. date: 2004-11-28 14:34:00 UTC+10:00
-.. tags: James,blog
-.. category: 
+.. tags: blog, water skiing
+.. category: James
 .. link: 
 
 It was another warm Saturday, with good friends and great skiing! The

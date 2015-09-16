@@ -1,8 +1,8 @@
 .. title: Arm problems explained...finally!
 .. slug: Arm_problems_explained...finally
 .. date: 2006-03-13 22:15:00 UTC+10:00
-.. tags: James,blog
-.. category: 
+.. tags: health,blog
+.. category: James
 .. link: 
 
 For those who don't know, last year (early October 2005) I woke up one

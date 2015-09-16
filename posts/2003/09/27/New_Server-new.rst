@@ -1,8 +1,8 @@
 .. title: New Server
 .. slug: New_Server
 .. date: 2003-09-27 21:34:58 UTC+10:00
-.. tags: tech, blog
-.. category: 
+.. tags: tech, blog, servers
+.. category: Site
 .. link: 
 
 Moved site to a new server! I finally took pity on my poor Pentium 166

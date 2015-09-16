@@ -1,8 +1,8 @@
 .. title: New CMS
 .. slug: New_CMS
 .. date: 2009-05-15 09:53:55 UTC+10:00
-.. tags: site
-.. category: 
+.. tags: site,web
+.. category: Site
 .. link: 
 
 Well, after wrangling the old Geeklog and Gallery2 setup into complete

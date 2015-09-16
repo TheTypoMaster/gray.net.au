@@ -1,8 +1,8 @@
 .. title: Synchronising iPhoto
 .. slug: Synchronising_iPhoto
 .. date: 2010-09-25 00:00:56 UTC+10:00
-.. tags: tech,blog,James
-.. category: 
+.. tags: tech,blog,OSX
+.. category: James
 .. link: 
 
 As many people who know me are aware, I use Macs. I also use iPhoto, a

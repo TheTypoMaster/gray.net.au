@@ -1,8 +1,8 @@
 .. title: Virus detection upgraded at Gray Online
 .. slug: Virus_detection_upgraded_at_Gray_Online
 .. date: 2007-04-15 10:49:02 UTC+10:00
-.. tags: tech,site
-.. category: 
+.. tags: tech,email,security
+.. category: Site
 .. link: 
 
 A number of people use my mail server to filter their ISP mail.  In other

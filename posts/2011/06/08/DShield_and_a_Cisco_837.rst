@@ -1,8 +1,8 @@
 .. title: DShield and a Cisco 837
 .. slug: DShield_and_a_Cisco_837
 .. date: 2011-06-08 14:04:10 UTC+10:00
-.. tags: tech, blog
-.. category:
+.. tags: tech, blog, security
+.. category: James
 .. link:
 .. description: How to set up a log server and Cisco 800-series router to capture logs for the DShield project
 

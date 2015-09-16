@@ -1,8 +1,8 @@
 .. title: Downtime notice
 .. slug: Downtime_notice
 .. date: 2004-06-08 13:37:00 UTC+10:00
-.. tags: blog, tech, site
-.. category: 
+.. tags: blog, tech, site, network
+.. category: Site
 .. link: 
 
 This is a heads-up for everyone who uses my mail server. Over the long

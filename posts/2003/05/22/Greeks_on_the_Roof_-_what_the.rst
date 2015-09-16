@@ -1,8 +1,8 @@
 .. title: Greeks on the Roof - what the??
-.. slug: Greeks_on_the_Roof_-_what_the__
+.. slug: Greeks_on_the_Roof
 .. date: 2003-05-22 12:58:58 UTC+10:00
-.. tags: James,blog
-.. category: 
+.. tags: blog,TV
+.. category: James
 .. link: 
 Is it just me or is "Greeks on the Roof" just plain rubbish?
 OK. I watched "Acropolis Now" during the 80's, hell I even thought

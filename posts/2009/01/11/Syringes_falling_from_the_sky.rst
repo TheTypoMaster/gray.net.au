@@ -1,8 +1,8 @@
 .. title: Syringes falling from the sky?!
 .. slug: Syringes_falling_from_the_sky
 .. date: 2009-01-11 14:36:37 UTC+10:00
-.. tags: James,blog
-.. category: 
+.. tags: blog
+.. category: James
 .. link: 
 
 Found this in today's news from Fairfax media:

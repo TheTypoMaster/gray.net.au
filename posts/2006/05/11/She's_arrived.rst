@@ -1,8 +1,8 @@
 .. title: She's arrived!!
 .. slug: Shes_arrived
 .. date: 2006-05-11 10:05:06 UTC+10:00
-.. tags: James,blog
-.. category: 
+.. tags: parenting,blog
+.. category: James
 .. link: 
 
 Please join, Natalie, Emily and I in welcoming our newest arrival!
@@ -10,6 +10,7 @@ Introducing Elise Kathryn Gray - born at 10:05am on Thursday 11th May,
 2006. She weighed in at a healthy 3365g (7lb 4oz) and measuring 50cm
 (19 3/4 inches). Nat and Elise are doing great! Please cruise over to
 `Elise's gallery`_ to see our little princess.
+** Edit 2015: Galleries being rebuilt - watch this space!**
 
 So how did we go 2nd time around? Well, Nat was induced again and we
 were really dreading what that might entail - given the rapid onset of

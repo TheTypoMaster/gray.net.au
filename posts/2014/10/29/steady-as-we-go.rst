@@ -1,7 +1,8 @@
 .. title: Steady as we go
 .. slug: steady-as-we-go
 .. date: 2014-10-29 11:20:10 UTC+11:00
-.. tags: blog,James
+.. tags: blog,health
+.. category: James
 .. link: 
 .. description: Just an update
 .. type: text
@@ -12,6 +13,8 @@ great benefit but is a gradual process and I am not particularly well known
 for my patience in these things.  I just want to get better and back to the
 things I normally do.  Nothing more to report on this really, when there's
 news I'll provide a more detailed update.
+
+.. TEASER_END
 
 Whilst laid up I have been busy reading the course material and associated
 reference books for my dive instructor's course.  I'm really enjoying

@@ -1,8 +1,8 @@
 .. title: The curse of old software
 .. slug: The_curse_of_old_software
 .. date: 2007-11-26 07:54:00 UTC+10:00
-.. tags: tech,blog,James
-.. category: 
+.. tags: tech,blog,OSX
+.. category: James
 .. link: 
 
 After spending a fair amount of time yesterday getting my Mac Mini
@@ -12,6 +12,8 @@ server) I was most disappointed this morning when I couldn't get Apple
 Mail to stay up long enough to read a *single* message. After about an
 hour of googling I decided that none of the fixes seemed to be
 applicable to my situation.
+
+.. TEASER_END
 
 So I decided that rather than try and let someone else solve the
 problem, I'd try and think it through. Being a new installation, less

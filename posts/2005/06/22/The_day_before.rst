@@ -1,8 +1,8 @@
 .. title: The day before...
 .. slug: The_day_before
 .. date: 2005-06-22 08:15:00 UTC+10:00
-.. tags: James,blog
-.. category: 
+.. tags: blog
+.. category: James
 .. link: 
 
 Tomorrow is my birthday and for some reason this hasn't inspired me to

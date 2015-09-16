@@ -1,8 +1,8 @@
 .. title: Fixed!
 .. slug: Fixed
 .. date: 2005-06-06 10:52:56 UTC+10:00
-.. tags: site
-.. category: 
+.. tags: gallery
+.. category: Site
 .. link: 
 
 I've finally got around to recreating the missing galleries and making

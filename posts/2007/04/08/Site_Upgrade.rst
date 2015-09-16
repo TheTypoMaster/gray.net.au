@@ -1,8 +1,8 @@
 .. title: Site Upgrade
 .. slug: Site_Upgrade
 .. date: 2007-04-08 09:17:00 UTC+10:00
-.. tags: site,tech
-.. category: 
+.. tags: web,tech
+.. category: Site 
 .. link: 
 
 Happy Easter! Welcome to the new and improved Gray Matter. What? You

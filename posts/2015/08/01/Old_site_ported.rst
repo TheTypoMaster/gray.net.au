@@ -1,8 +1,8 @@
 .. title: Old site is ported...mostly
 .. slug: old_site_ported
 .. date: 2015-08-01 14:39:30 UTC+10:00
-.. tags: site,blog
-.. category: 
+.. tags: blog,web
+.. category: Site
 .. link: 
 .. description: 
 .. type: text

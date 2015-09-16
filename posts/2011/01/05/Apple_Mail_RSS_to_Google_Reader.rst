@@ -1,8 +1,8 @@
 .. title: Apple Mail RSS to Google Reader
 .. slug: Apple_Mail_RSS_to_Google_Reader
 .. date: 2011-01-05 03:42:00 UTC+10:00
-.. tags: tech,blog,James
-.. category: 
+.. tags: tech,blog,OSX,Apple,email
+.. category: James
 .. link: 
 
 I have been using Apple Mail to read my RSS feeds for a few years now

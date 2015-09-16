@@ -1,8 +1,8 @@
 .. title: Version 1.0 Weather info
 .. slug: Version_1.0_Weather_info
 .. date: 2006-07-01 17:06:00 UTC+10:00
-.. tags: site
-.. category: 
+.. tags: tech
+.. category: Site
 .. link: 
 
 On the left hand side you will now see some information about the

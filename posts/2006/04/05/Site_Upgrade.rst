@@ -1,8 +1,8 @@
 .. title: Site Upgrade
 .. slug: Site_Upgrade
 .. date: 2006-04-05 16:04:00 UTC+10:00
-.. tags: site
-.. category: 
+.. tags: web
+.. category: Site
 .. link: 
 
 I've just finished upgrading the content management system for The

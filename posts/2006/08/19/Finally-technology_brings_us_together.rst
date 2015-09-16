@@ -1,8 +1,8 @@
 .. title: Finally - technology brings us together!
 .. slug: Finally-technology_brings_us_together
 .. date: 2006-08-19 19:33:00 UTC+10:00
-.. tags: James,blog,tech
-.. category: 
+.. tags: blog,tech,family
+.. category: James
 .. link: 
 
 Technology has promised many things over the years, and sadly, very

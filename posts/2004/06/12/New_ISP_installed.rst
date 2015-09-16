@@ -1,8 +1,8 @@
 .. title: New ISP installed!
 .. slug: New_ISP_installed
 .. date: 2004-06-12 16:14:00 UTC+10:00
-.. tags: tech, blog, site
-.. category: 
+.. tags: tech, blog, site, network
+.. category: Site
 .. link:
 
 Well after a rather stressful 24 hours, the new ISP is installed, my

@@ -1,8 +1,8 @@
 .. title: Finally - automatic old message deletion in Apple Mail
 .. slug: Automatic_old_message_deletion_in_Apple_Mail
 .. date: 2009-12-30 20:47:14 UTC+10:00
-.. tags: tech,blog,James
-.. category: 
+.. tags: tech,blog,OSX,email
+.. category: James
 .. link: 
 
 For quite a while it's bugged me that there was nothing in Apple Mail that
@@ -12,6 +12,8 @@ volume mail lists and having to muck around with "Smart Mailboxes" to find
 the old messages and then delete them manually was a royal pain.  Well, I
 decided to get in a New Year's resolution early and put in place a more
 elegant solution.
+
+.. TEASER_END
 
 OK, so enough of the introduction, here's how it works:
 

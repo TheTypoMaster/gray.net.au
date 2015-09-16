@@ -1,8 +1,8 @@
 .. title: Phew! Now I can talk about it!!
 .. slug: Phew_Now_I_can_talk_about_it
 .. date: 2004-01-05 10:13:00 UTC+10:00
-.. tags: James,blog
-.. category: 
+.. tags: blog, parenting
+.. category: James
 .. link: 
 
 At last. I can make a mention on my weblog about the biggest news in

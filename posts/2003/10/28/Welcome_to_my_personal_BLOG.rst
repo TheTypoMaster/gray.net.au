@@ -1,8 +1,8 @@
 .. title: Welcome to my personal BLOG!
 .. slug: Welcome_to_my_personal_BLOG
 .. date: 2003-10-28 11:30:55 UTC+10:00
-.. tags: James,blog
-.. category: 
+.. tags: blog
+.. category: James
 .. link: 
 
 Yep this is the first :-) This is my personal Weblog (aka "blog").

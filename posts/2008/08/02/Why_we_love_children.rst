@@ -1,8 +1,8 @@
 .. title: Why we love children
 .. slug: Why_we_love_children
 .. date: 2008-08-02 16:39:00 UTC+10:00
-.. tags: funny,blog,James
-.. category: 
+.. tags: funny,blog,parenting
+.. category: James
 .. link: 
 
 A frined of mine sent this to me via e-mail and I just had to add it

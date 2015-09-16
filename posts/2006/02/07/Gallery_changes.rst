@@ -1,8 +1,8 @@
 .. title: Gallery changes...
 .. slug: Gallery_changes
 .. date: 2006-02-07 10:42:00 UTC+10:00
-.. tags: site,tech
-.. category: 
+.. tags: site,tech,gallery
+.. category: Site
 .. link: 
 
 Well, it was bound to happen. The blogs and links and stuff have

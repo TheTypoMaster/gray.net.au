@@ -1,8 +1,8 @@
 .. title: Referrer Spam....grrr
 .. slug: Referrer_Spam
 .. date: 2005-02-18 12:45:00 UTC+10:00
-.. tags: James,blog
-.. category: 
+.. tags: tech,blog, spam, apache
+.. category: James
 .. link: 
 
 For some time now (ok for the last 3-4 months) I've been getting HEAPS

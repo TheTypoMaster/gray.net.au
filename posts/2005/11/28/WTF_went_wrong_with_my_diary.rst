@@ -1,8 +1,8 @@
 .. title: WTF went wrong with my diary?!
 .. slug: WTF_went_wrong_with_my_diary
 .. date: 2005-11-28 11:12:00 UTC+10:00
-.. tags: James,blog
-.. category: 
+.. tags: blog,water skiing
+.. category: James
 .. link: 
 
 This time last year we'd been skiing for almost two months (every weekend) and

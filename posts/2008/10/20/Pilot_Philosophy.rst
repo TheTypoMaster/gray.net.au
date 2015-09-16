@@ -8,6 +8,8 @@
 Know any pilots? Did you happen to marry one? (Poor you!!). Well these might
 help decipher the complex nature of Pilot Philospghy!
 
+.. TEASER_END
+
 * **The difference between a duck and a co-pilot?**
 
   *The duck can fly.*

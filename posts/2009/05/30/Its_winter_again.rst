@@ -1,8 +1,8 @@
 .. title: It's winter again :(
 .. slug: Its_winter_again
 .. date: 2009-05-30 01:15:02 UTC+10:00
-.. tags: James,blog
-.. category: 
+.. tags: blog
+.. category: James
 .. link: 
 
 Anyone who knows me, knows I hate the cold. Let's just ponder that for

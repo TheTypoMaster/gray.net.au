@@ -1,8 +1,8 @@
 .. title: Business trips
 .. slug: Business_trips
 .. date: 2006-03-02 09:49:00 UTC+10:00
-.. tags: James,blog
-.. category: 
+.. tags: travel,blog
+.. category: James
 .. link: 
 
 Well here I am sitting in a hotel room, in Adelaide...alone. Another

@@ -1,8 +1,8 @@
 .. title: The Matrix: Is Neo an anomoly?
 .. slug: The_Matrix-Is_Neo_an_anomoly
 .. date: 2003-06-11 10:16:44 UTC+10:00
-.. tags: James,blog
-.. category: 
+.. tags: blog, movies
+.. category: James
 .. link: 
 
 If you haven't seen "The Matrix Reloaded" then **DONT** read the rest

@@ -1,7 +1,8 @@
 .. title: Geotagging photos...without breaking the bank
 .. slug: Geotagging
 .. date: 2014-11-17 20:11:33 UTC+11:00
-.. tags: James,tech
+.. tags: OSX,tech,software
+.. category: James
 .. link: 
 .. description: Geotagging photos with only software and a simple workflow.
 .. type: text

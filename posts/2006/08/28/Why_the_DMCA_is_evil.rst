@@ -1,8 +1,8 @@
 .. title: Why the DMCA is evil...
 .. slug: Why_the_DMCA_is_evil
 .. date: 2006-08-28 12:59:00 UTC+10:00
-.. tags: tech,blog,James
-.. category: 
+.. tags: tech,blog,politics
+.. category: James
 .. link: 
 
 Normally I don't write articles about technology news - there's plenty

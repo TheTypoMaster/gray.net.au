@@ -1,8 +1,8 @@
 .. title: So what's the big deal if you PC caught the flu?
 .. slug: So_whats_the_big_deal_if_you_PC_caught_the_flu_
 .. date: 2004-05-18 10:45:01 UTC+10:00
-.. tags: tech, blog
-.. category: 
+.. tags: tech, blog, security
+.. category: James
 .. link: 
 
 Seems a number of my friends' and relatives' computers are dangerously

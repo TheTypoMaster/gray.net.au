@@ -1,8 +1,8 @@
 .. title: My Brush with Decompression Sickness
 .. slug: my_brush_with_decompression_sickness
 .. date: 2012-04-05 12:20:12 UTC+10:00
-.. tags: blog,James,diving
-.. category: 
+.. tags: blog,diving,health
+.. category: James
 .. link: 
 .. description: A retrospective on a diving accident I hope to never repeat
 .. type: text

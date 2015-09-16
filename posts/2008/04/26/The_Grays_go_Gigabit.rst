@@ -1,8 +1,8 @@
 .. title: The Grays go Gigabit!
 .. slug: The_Grays_go_Gigabit
 .. date: 2008-04-26 17:21:00 UTC+10:00
-.. tags: tech,blog,James
-.. category: 
+.. tags: tech,blog,network
+.. category: James
 .. link: 
 
 It's taken a while but the cost for gigabit ethernet is finally down to a

@@ -1,7 +1,8 @@
 .. title: Getting tired of this
 .. slug: getting_tired
 .. date: 2014-12-21 18:47:26 UTC+11:00
-.. tags: blog,James
+.. tags: blog,health
+.. category: James
 .. link: 
 .. description: An update on life
 .. type: text
@@ -10,16 +11,20 @@ So, it's officially 122 days since I shattered my shoulder.  122 days, 10
 hours and 28 minutes.  Not that I'm counting...no siree.  I'm writing this
 blog post for as much my own benefit as for informing friends and family of
 what progress is happening, so I apologise in advance if this rambles a little
-in places; I need to get some stuff out of my head.  The good news is, my
-surgeon hasn't put scalpel to skin (yet) and is **extremely** pleased with my
-progress to date.  I have a reasonably functional amount of movement in my
-shoulder with strength returning incrementally as I work through exercises
-with my physiotherapist.  Speaking of physiotherapists, she is also really
-happy how healing has progressed and reassures me, on nearly every visit (twice
-a week!), I am a lot better off this early in my recovery than *most* people
-who have shattered their shoulders.  My family doctor, who is managing my
-recovery, is also impressed with progress so far; and he used to be an
-orthopaedic surgeon too.
+in places; I need to get some stuff out of my head.
+
+.. TEASER_END
+
+The good news is, my surgeon hasn't put scalpel to skin (yet) and is
+**extremely** pleased with my progress to date.  I have a reasonably
+functional amount of movement in my shoulder with strength returning
+incrementally as I work through exercises with my physiotherapist.  Speaking
+of physiotherapists, she is also really happy how healing has progressed and
+reassures me, on nearly every visit (twice a week!), I am a lot better off
+this early in my recovery than *most* people who have shattered their
+shoulders.  My family doctor, who is managing my recovery, is also impressed
+with progress so far; and he used to be an orthopaedic surgeon too.
+
 
 Ok, I get it.  I'm doing "great" according to the experts, and I should be
 punching the air and pointing at my reflection saying "You're the man!".  Reality

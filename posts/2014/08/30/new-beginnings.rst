@@ -1,7 +1,8 @@
 .. title: New Beginnings
 .. slug: new-beginnings
 .. date: 2014-08-30 14:01:17 UTC+10:00
-.. tags: blog,James
+.. tags: blog
+.. category: James
 .. link: 
 .. description: 
 .. type: text
@@ -11,6 +12,8 @@ various projects for my employer.  This has been a wonderful experience where
 I learnt a lot, made heaps of new friends and achieved some great things.  I
 spent time working in the USA, and got to explore some great landmarks on both
 the east and west coasts!  It has been a good ride.
+
+.. TEASER_END
 
 However, as they say, all good things must come to an end and for me, the good
 times dried up over a year ago.  I have persisted in trying to rekindle that

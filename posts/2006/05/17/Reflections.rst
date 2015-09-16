@@ -1,8 +1,8 @@
 .. title: Reflections
 .. slug: Reflections
 .. date: 2006-05-17 09:50:00 UTC+10:00
-.. tags: James,blog
-.. category: 
+.. tags: parenting,blog
+.. category: James
 .. link: 
 
 After a few days to enjoy having my family home I figured it was time

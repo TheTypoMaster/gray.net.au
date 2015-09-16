@@ -1,8 +1,8 @@
 .. title: Going to Oran Park!
 .. slug: Going_to_Oran_Park
 .. date: 2003-04-16 10:29:00 UTC+10:00
-.. tags: James,blog
-.. category: 
+.. tags: blog,motor bikes,friends
+.. category: James
 .. link: 
 
 Yay! I'm booked and paid and going racing at Oran Park!!

@@ -1,8 +1,8 @@
 .. title: The Luddite is GONE!
 .. slug: The_Luddite_is_GONE
 .. date: 2003-09-29 20:49:00 UTC+10:00
-.. tags: tech, blog
-.. category: 
+.. tags: tech, blog, politics
+.. category: James
 .. link: 
 
 Ah yes! Finally Austrlia has been liberated from the shackles of

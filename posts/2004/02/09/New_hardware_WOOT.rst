@@ -1,8 +1,8 @@
 .. title: New hardware! WOOT!!
 .. slug: New_hardware_WOOT
 .. date: 2004-02-09 22:43:51 UTC+10:00
-.. tags: site
-.. category: 
+.. tags: servers
+.. category: Site
 .. link: 
 
 YAY! I have finally managed to build out some "new" equipment. The new

@@ -1,8 +1,8 @@
 .. title: My First Church Address
 .. slug: My_First_Church_Address
 .. date: 2008-05-11 15:21:00 UTC+10:00
-.. tags: James,blog
-.. category: 
+.. tags: blog
+.. category: James
 .. link: 
 
 A few people have asked for me to provide a copy of my address I did
@@ -42,5 +42,6 @@ they will walk and not be faint.*
 time I've relayed this story in public and I was very nervous...the
 second service that morning was a LOT better, but I don't have that
 recording :(*
+**Edit 2015: recording unavailable - hunting it down, stay tuned**
 
-.. _Feel free to listen to whole sermon (9.8MB / 36 minutes).: http://gray.net.au/assets/files/audio/james_church.mp3
+.. _Feel free to listen to whole sermon (9.8MB / 36 minutes).: https://gray.net.au/assets/files/audio/james_church.mp3

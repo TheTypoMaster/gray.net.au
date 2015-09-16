@@ -1,7 +1,7 @@
 .. title: London Times Obituary of the late Mr C. Sense
 .. slug: London_Times_Obituary_of_the_late_Mr_C_Sense
 .. date: 2009-08-24 19:15:54 UTC+10:00
-.. tags: James,blog,funny
+.. tags: funny
 .. category: 
 .. link: 
 

@@ -1,8 +1,8 @@
 .. title: What is it with cars?
 .. slug: What_is_it_with_cars
 .. date: 2005-10-25 10:04:00 UTC+10:00
-.. tags: James,blog
-.. category: 
+.. tags: blog, car trouble
+.. category: James
 .. link: 
 
 Why do bad things happen on Friday nights when no-one can do anything

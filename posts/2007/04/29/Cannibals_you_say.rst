@@ -1,8 +1,8 @@
 .. title: Cannibals you say?
 .. slug: Cannibals_you_say_
 .. date: 2007-04-29 09:47:00 UTC+10:00
-.. tags: funny,blog,James
-.. category: 
+.. tags: funny,blog
+.. category: James
 .. link: 
 
 Recently, a large corporation hired several cannibals to increase

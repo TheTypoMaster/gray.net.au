@@ -1,8 +1,8 @@
 .. title: GREAT NEWS!
 .. slug: GREAT_NEWS
 .. date: 2005-11-16 20:38:00 UTC+10:00
-.. tags: blog,James
-.. category: 
+.. tags: blog,parenting
+.. category: James
 .. link: 
 
 **Announcing the pending arrival of our second child!!**

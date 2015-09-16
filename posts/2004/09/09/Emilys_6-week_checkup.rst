@@ -1,8 +1,8 @@
 .. title: Emily's 6-week checkup
 .. slug: Emilys_6-week_checkup
 .. date: 2004-09-09 06:32:00 UTC+10:00
-.. tags: blog, James
-.. category: 
+.. tags: blog, parenting
+.. category: James
 .. link: 
 
 Emily has been to the paediatrician for her 6 week checkup and

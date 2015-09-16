@@ -1,8 +1,8 @@
 .. title: Advice for 2006
 .. slug: Advice_for_2006
 .. date: 2006-01-13 09:24:00 UTC+10:00
-.. tags: funny,James,blog
-.. category: 
+.. tags: funny,blog
+.. category: James
 .. link: 
 
 I got an e-mail today from a friend and thought it just so aptly

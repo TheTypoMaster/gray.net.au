@@ -1,8 +1,8 @@
 .. title: Christmas Holidays
 .. slug: Christmas_Holidays
 .. date: 2005-01-14 14:20:00 UTC+10:00
-.. tags: James, blog
-.. category: 
+.. tags: holidays, blog
+.. category: James
 .. link: 
 
 We're back - and we survived! The epic " Home - Lismore (via Port

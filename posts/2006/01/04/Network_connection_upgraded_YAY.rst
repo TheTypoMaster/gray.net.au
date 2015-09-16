@@ -1,8 +1,8 @@
 .. title: Network connection upgraded! YAY!!
 .. slug: Network_connection_upgraded_YAY
 .. date: 2006-01-04 16:27:34 UTC+10:00
-.. tags: tech,blog,James
-.. category: 
+.. tags: tech,blog,network
+.. category: James
 .. link: 
 
 WOOT! After almost two months wait, the Internet connection is

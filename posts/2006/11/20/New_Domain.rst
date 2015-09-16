@@ -1,8 +1,8 @@
 .. title: New Domain!
 .. slug: New_Domain
 .. date: 2006-11-20 15:17:00 UTC+10:00
-.. tags: site,blog
-.. category: 
+.. tags: web,blog
+.. category: Site
 .. link: 
 
 You may have noticed that The Gray Matter has a new domain. I've

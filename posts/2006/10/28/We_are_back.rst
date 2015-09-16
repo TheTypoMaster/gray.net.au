@@ -1,8 +1,8 @@
 .. title: We're back!
 .. slug: We_are_back
 .. date: 2006-10-28 09:25:00 UTC+10:00
-.. tags: James,blog
-.. category: 
+.. tags: holidays,blog,family
+.. category: James
 .. link: 
 
 I don't normally broadcast when we're heading away for a week or so (I

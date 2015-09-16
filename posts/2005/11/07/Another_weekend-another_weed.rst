@@ -1,8 +1,8 @@
 .. title: Another weekend - another weed
 .. slug: Another_weekend-another_weed
 .. date: 2005-11-07 10:06:00 UTC+10:00
-.. tags: James,blog
-.. category: 
+.. tags: blog, friends, uni
+.. category: James
 .. link: 
 
 Spent a good proportion of this weekend pulling weeds and other plants

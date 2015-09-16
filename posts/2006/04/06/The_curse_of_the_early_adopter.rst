@@ -1,8 +1,8 @@
 .. title: The curse of the "early adopter"!
 .. slug: The_curse_of_the_early_adopter
 .. date: 2006-04-06 11:32:00 UTC+10:00
-.. tags: James,blog,tech
-.. category: 
+.. tags: servers,blog,tech,email,security
+.. category: James
 .. link: 
 
 As I posted in the Site News section, and as can be seen in the

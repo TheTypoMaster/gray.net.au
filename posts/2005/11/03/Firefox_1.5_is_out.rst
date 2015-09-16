@@ -1,8 +1,8 @@
 .. title: Firefox 1.5 is out!
 .. slug: Firefox_1.5_is_out
 .. date: 2005-11-03 12:51:00 UTC+10:00
-.. tags: tech, blog, James
-.. category: 
+.. tags: tech, blog, browsers
+.. category: James
 .. link: 
 
 The fine folk over at `Mozilla`_ have released a new version of their

@@ -1,8 +1,8 @@
 .. title: If Airlines were operating systems...
 .. slug: If_Airlines_were_operating_systems
 .. date: 2007-08-01 16:55:00 UTC+10:00
-.. tags: funny,blog,James
-.. category: 
+.. tags: funny,blog,aviation
+.. category: James
 .. link: 
 
 I've seen this before, but it arrived in my mailbox today from a friend. Given

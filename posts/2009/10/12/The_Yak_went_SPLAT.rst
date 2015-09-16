@@ -1,8 +1,8 @@
 .. title: The Yak went SPLAT!
 .. slug: The_Yak_went_SPLAT
 .. date: 2009-10-12 01:30:45 UTC+10:00
-.. tags: James,blog
-.. category: 
+.. tags: blog,models
+.. category: James
 .. link: 
 
 I was flying my freshly built Yak-54 foamie down the park, miles (ok,

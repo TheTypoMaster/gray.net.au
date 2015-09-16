@@ -1,8 +1,8 @@
 .. title: Not much happening...that's the problem!
 .. slug: Not_much_happening_thats_the_problem
 .. date: 2004-02-19 23:36:00 UTC+10:00
-.. tags: James,blog
-.. category: 
+.. tags: blog, parenting
+.. category: James
 .. link: 
 
 After much fussing and running around things on the parenting front

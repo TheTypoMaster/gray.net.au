@@ -1,8 +1,8 @@
 .. title: Scratch one marine tank :(
 .. slug: Scratch_one_marine_tank
 .. date: 2009-10-07 01:41:05 UTC+10:00
-.. tags: James,blog
-.. category: 
+.. tags: blog,fish tank
+.. category: James
 .. link: 
 
 Right now I'm too angry to see straight! My entire stock of fish in my

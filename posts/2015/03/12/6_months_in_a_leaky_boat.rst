@@ -1,8 +1,8 @@
 .. title: Six months in a leaky boat (called Work Cover)
 .. slug: 6_months_in_a_leaky_boat
 .. date: 2015-03-12 19:00:02 UTC+11:00
-.. tags: blog,James
-.. category: 
+.. tags: blog,health
+.. category: James
 .. link: 
 .. description: Retrospective on six months being treated under work cover.
 .. type: text
@@ -13,6 +13,8 @@ progress is still happenning, albeit a little slower than before.  My shoulder
 continues to heal and I am gaining a little more mobility in stages.  Seems
 "something" goes right, things get better, then nothing for a week or two.
 Apparently this is *normal*.  Go figure.
+
+.. TEASER_END
 
 Pain is still a regular feature in my consciousness, and it has been getting a
 little worse lately.  This in turn prompted a bit of an investigation with the

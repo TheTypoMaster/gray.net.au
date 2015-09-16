@@ -1,8 +1,8 @@
 .. title: Hot Air Balloon Logic
 .. slug: Hot_Air_Balloon_Logic
 .. date: 2008-04-01 19:23:00 UTC+10:00
-.. tags: funny,James,blog,aviation
-.. category: 
+.. tags: funny,blog,aviation
+.. category: James
 .. link: 
 
 A man piloting a hot air balloon discovers he has wandered off course

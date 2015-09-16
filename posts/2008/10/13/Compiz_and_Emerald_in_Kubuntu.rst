@@ -1,8 +1,8 @@
 .. title: Compiz + Emerald in Kubuntu (Hardy 8.04)
 .. slug: Compiz_and_Emerald_in_Kubuntu
 .. date: 2008-10-13 12:08:00 UTC+10:00
-.. tags: tech,blog,James
-.. category: 
+.. tags: tech,blog,Linux
+.. category: James
 .. link: 
 
 I've seen a lot of posts about how to get `Compiz`_ and `Emerald`_ working

@@ -1,8 +1,8 @@
 .. title: Cars...and life's other questions
 .. slug: Cars_and_lifes_other_questions
 .. date: 2005-10-28 11:09:00 UTC+10:00
-.. tags: James,blog
-.. category: 
+.. tags: blog, car trouble
+.. category: James
 .. link: 
 
 Woot. The Falcon is back in my garage! The bike is no longer in my

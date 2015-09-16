@@ -1,8 +1,8 @@
 .. title: Double-demerit weekends
 .. slug: Double-demerit_weekends
 .. date: 2008-03-20 10:44:00 UTC+10:00
-.. tags: James,blog
-.. category: 
+.. tags: politics,blog,car trouble
+.. category: James
 .. link: 
 
 With the advent of the Easter long weekend, (yay!) the NSW government have

@@ -1,8 +1,8 @@
 .. title: Power Outage
 .. slug: Power_Outage
 .. date: 2004-03-31 11:47:00 UTC+10:00
-.. tags: tech,site
-.. category: 
+.. tags: tech, servers
+.. category: Site
 .. link: 
 
 This morning (*Wednesday 31st March, 2004*) I lost all power to all my

@@ -1,8 +1,8 @@
 .. title: Shiny new toys :)
 .. slug: Shiny_new_toys
 .. date: 2005-12-06 18:03:00 UTC+10:00
-.. tags: James,blog, tech
-.. category: 
+.. tags: blog, tech
+.. category: James
 .. link: 
 
 Due to some changes in our domestic situation, Natalie had to move her

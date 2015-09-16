@@ -1,14 +1,16 @@
 .. title: 24 hours in OSX Leopard + iLife '08
 .. slug: 24_hours_in_OSX_Leopard_and_iLife_08
 .. date: 2007-11-26 14:36:23 UTC+10:00
-.. tags: tech,blog,James
-.. category: 
+.. tags: tech,blog,Apple,OSX
+.. category: James
 .. link: 
 
 I'm not going to bore everyone with stuff they've read elsewhere. This
 is purely my first impressions for the sake of posterity. So with no
 more intro, here it is, my top five new features in Leopard/iLife '08
-I can't live without:
+I can't live without.
+
+.. TEASER_END
 
 #. **Spaces**. Some people hate them, I can't live without them.
    Organise my work spaces into logical areas in a virtual space. Make

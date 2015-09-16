@@ -1,8 +1,8 @@
 .. title: FREEBIE!  For real - no I'm not kidding.
 .. slug: FREEBIE_For_real
 .. date: 2006-08-28 13:21:00 UTC+10:00
-.. tags: tech,blog,James
-.. category: 
+.. tags: tech,blog,security
+.. category: James
 .. link: 
 
 Just a very short article to link to one of the best FREE virus

@@ -1,8 +1,8 @@
 .. title: New Job
 .. slug: New_Job
 .. date: 2009-01-05 09:00:38 UTC+10:00
-.. tags: James,blog
-.. category: 
+.. tags: blog
+.. category: James
 .. link: 
 
 New year, new job! I think I've hit the jackpot in relation to

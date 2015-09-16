@@ -1,8 +1,8 @@
 .. title: The Apple App Store versus the Vendor
 .. slug: The_Apple_App_Store_versus_the_Vendor
 .. date: 2011-01-21 00:18:35 UTC+10:00
-.. tags: tech,blog,James
-.. category: 
+.. tags: tech,blog,OSX,Apple
+.. category: James
 .. link: 
 
 First of all, let's get something straight: I LIKE the Apple App Store

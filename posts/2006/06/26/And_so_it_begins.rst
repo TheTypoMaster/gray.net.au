@@ -2,7 +2,7 @@
 .. slug: And_so_it_begins
 .. date: 2006-06-26 22:56:00 UTC+10:00
 .. tags: tech
-.. category: 
+.. category: James
 .. link: 
 
 It was recently my birthday and my lovely (long suffering) wife bought

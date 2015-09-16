@@ -1,8 +1,8 @@
 .. title: Why Linux Sux? Yes why does it?!
-.. slug: Why_Linux_Sux-Yes_why_does_it_
+.. slug: Why_Linux_Sux-Yes_why_does_it
 .. date: 2003-07-13 14:21:00 UTC+10:00
-.. tags: tech, James
-.. category: 
+.. tags: tech, blog, Linux, Microsoft
+.. category: James
 .. link: 
 
 Seems Linux advocates have taken the *Why Linux Sux?* album in the

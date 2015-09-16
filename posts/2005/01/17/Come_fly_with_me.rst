@@ -1,8 +1,8 @@
 .. title: Come fly with me! Come fly, come fly away....
 .. slug: Come_fly_with_me
 .. date: 2005-01-17 13:43:00 UTC+10:00
-.. tags: James,blog,aviation
-.. category: 
+.. tags: blog,aviation, gliding
+.. category: James
 .. link: 
 
 Well, four and a half years after flying my last professional flight,

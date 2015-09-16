@@ -1,7 +1,8 @@
 .. title: Gmail automatic message purge
 .. slug: gmail-automatic-message-purge
 .. date: 2014-09-08 13:16:57 UTC+10:00
-.. tags: blog,tech
+.. tags: blog,tech,web,Google
+.. category: James
 .. link: 
 .. description: Automatically purge messages with different labels and custom ages.
 .. type: text

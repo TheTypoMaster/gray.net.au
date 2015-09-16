@@ -1,7 +1,8 @@
 .. title: Father's Day
-.. slug: fathers-day
+.. slug: fathers-day-2014
 .. date: 2014-09-07 18:08:45 UTC+10:00
-.. tags: blog,James
+.. tags: blog,parenting,family
+.. category: James
 .. link: 
 .. description: Father's Day 2014
 .. type: text

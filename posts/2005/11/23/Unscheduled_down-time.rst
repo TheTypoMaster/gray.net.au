@@ -1,8 +1,8 @@
 .. title: Unscheduled down-time
 .. slug: Unscheduled_down-time
 .. date: 2005-11-23 21:33:00 UTC+10:00
-.. tags: tech,site
-.. category: 
+.. tags: tech,downtime
+.. category: Site
 .. link: 
 
 Dagnabbit! Just when you sit back and get a contented smile growing on

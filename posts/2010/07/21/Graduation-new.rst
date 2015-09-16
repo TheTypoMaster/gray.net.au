@@ -1,8 +1,8 @@
 .. title: Graduation
 .. slug: Graduation
 .. date: 2010-07-21 04:54:14 UTC+10:00
-.. tags: James,blog
-.. category: 
+.. tags: uni,blog
+.. category: James
 .. link: 
 
 Well it had to happen eventually, given enough time I guess it was

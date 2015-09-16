@@ -1,8 +1,8 @@
 .. title: A Mother's Day to remember
 .. slug: A_Mothers_Day_to_remember
 .. date: 2006-05-16 09:37:00 UTC+10:00
-.. tags: James,blog
-.. category: 
+.. tags: parenting,blog
+.. category: James
 .. link: 
 
 (*This is a few days late, but hey, I've got a new born....what day
@@ -14,6 +14,7 @@ paediatrician and the doctors were happy for Nat and Elise to come
 home on Mother's Day!! That in itself is special, but also having my
 mum (Emily and Elise's Nanna) there too was just fantastic! There's `a
 few photo's`_ in Elise's gallery starting on page 2. Enjoy :)
+** Edit 2015: Galleries being rebuilt - watch this space!**
 
 I don't think the doctor's were in any way being "generous" to us - I
 think they had a labour ward being backed up with a rush of new

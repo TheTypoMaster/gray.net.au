@@ -1,8 +1,8 @@
 .. title: It's ALIVE! ...and we have visual proof
 .. slug: Its_ALIVE_and_we_have_visual_proof
 .. date: 2004-02-12 12:04:44 UTC+10:00
-.. tags: James,blog
-.. category: 
+.. tags: blog, parenting
+.. category: James
 .. link: 
 
 Nat and I trundled off to the obstetrician on Tuesday (10-Feb) and

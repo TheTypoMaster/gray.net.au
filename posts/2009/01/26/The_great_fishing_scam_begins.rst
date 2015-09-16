@@ -1,8 +1,8 @@
 .. title: The great fishing scam begins
 .. slug: The_great_fishing_scam_begins
 .. date: 2009-01-26 14:24:42 UTC+10:00
-.. tags: James,blog
-.. category: 
+.. tags: fish tank,blog
+.. category: James
 .. link: 
 
 Call is fate, call it a disaster but my freshwater aquarium is no

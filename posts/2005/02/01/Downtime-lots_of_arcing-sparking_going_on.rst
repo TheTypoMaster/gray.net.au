@@ -1,8 +1,8 @@
 .. title: Downtime - lots of arcing-sparking goin' on!
 .. slug: Downtime-lots_of_arcing-sparking_going_on
 .. date: 2005-02-01 21:04:00 UTC+10:00
-.. tags: site, tech
-.. category: 
+.. tags: tech, downtime
+.. category: Site
 .. link: 
 
 Yup - I got hit in those thunderstorms that clobbered southern NSW on

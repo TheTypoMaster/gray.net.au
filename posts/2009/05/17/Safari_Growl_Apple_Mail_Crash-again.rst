@@ -1,8 +1,8 @@
 .. title: Safari 4 + OSX 10.5.7 + Growl Mail = Mail Crash ... again!
 .. slug: Safari_Growl_Apple_Mail_Crash-again
 .. date: 2009-05-17 01:35:27 UTC+10:00
-.. tags: James,blog,tech
-.. category: 
+.. tags: OSX,blog,tech,Apple
+.. category: James 
 .. link: 
 
 Go figure. I have two Macs; a Macbook Pro and an iMac. Both Intel
@@ -25,4 +25,4 @@ from my ~/Library/Mail/Bundles directory, and everything is working
 again (except Growl notifying me of new mail). I can live with that.
 
 So it's over to the Growl devs (who normally respond fairly quickly to
-this sort of thing) - FIX IT!! :-/
+this sort of thing) - **FIX IT!!** :-/

@@ -1,8 +1,8 @@
 .. title: The CPU - where to from here?
 .. slug: The_CPU-where_to_from_here
 .. date: 2008-06-01 10:26:00 UTC+10:00
-.. tags: tech,blog,James
-.. category: 
+.. tags: tech,blog,servers
+.. category: James
 .. link: 
 
 Modern computers have at their heart a piece of equipment commonly

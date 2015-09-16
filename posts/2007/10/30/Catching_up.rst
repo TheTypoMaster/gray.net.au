@@ -1,8 +1,8 @@
 .. title: Catching up....
 .. slug: Catching_up
 .. date: 2007-10-30 14:14:00 UTC+10:00
-.. tags: James,blog
-.. category: 
+.. tags: web,blog
+.. category: James
 .. link: 
 
 Having resisted the pressure from friends I finally caved in and

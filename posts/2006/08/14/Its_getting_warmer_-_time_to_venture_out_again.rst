@@ -1,8 +1,8 @@
 .. title: It's getting warmer - time to venture out again!
 .. slug: Its_getting_warmer-time_to_venture_out_again
 .. date: 2006-08-14 09:32:00 UTC+10:00
-.. tags: James,blog
-.. category: 
+.. tags: blog,parenting,family
+.. category: James
 .. link: 
 
 Last weekend was great - the weather is warming up (slowly) and the

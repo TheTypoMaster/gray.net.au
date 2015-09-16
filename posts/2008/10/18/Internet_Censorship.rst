@@ -1,8 +1,8 @@
 .. title: Internet Censorship
 .. slug: Internet_Censorship
 .. date: 2008-10-18 18:51:00 UTC+10:00
-.. tags: tech,blog,James
-.. category: 
+.. tags: tech,blog,politics
+.. category: James
 .. link: 
 
 Ordinarily I don't make a big song and dance about stupid decisions

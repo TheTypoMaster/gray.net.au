@@ -1,8 +1,8 @@
 .. title: Support Autism
 .. slug: Support_Autism
 .. date: 2010-10-26 17:48:51 UTC+10:00
-.. tags: James,blog
-.. category: 
+.. tags: blog
+.. category: James
 .. link: 
 
 You may notice the new block on the right hand side. ( *Update: Block removed,

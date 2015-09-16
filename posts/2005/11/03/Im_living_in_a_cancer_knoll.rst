@@ -1,8 +1,8 @@
 .. title: I'm living in a cancer knoll!
 .. slug: Im_living_in_a_cancer_knoll
 .. date: 2005-11-03 10:15:00 UTC+10:00
-.. tags: James,blog,tech
-.. category: 
+.. tags: blog,tech, network
+.. category: James
 .. link:
 
 Whilst on the train this morning I started thinking about all the EMR

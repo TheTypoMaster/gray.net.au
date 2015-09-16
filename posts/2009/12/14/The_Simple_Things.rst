@@ -1,8 +1,8 @@
 .. title: The Simple Things
 .. slug: The_Simple_Things
 .. date: 2009-12-14 00:30:18 UTC+10:00
-.. tags: tech,blog,James
-.. category: 
+.. tags: tech,blog,OSX
+.. category: James
 .. link: 
 
 Sometimes the simple things are the things that irritate you the most,

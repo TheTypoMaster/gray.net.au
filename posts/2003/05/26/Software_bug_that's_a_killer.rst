@@ -1,8 +1,8 @@
 .. title: Software bug that's a killer
 .. slug: Software_bug_thats_a_killer
 .. date: 2003-05-26 11:34:36 UTC+10:00
-.. tags: tech, diving
-.. category: 
+.. tags: tech, diving, software
+.. category: James
 .. link: 
 
 We all know that buggy software is a pain (Windows 3.1 anyone??) but
