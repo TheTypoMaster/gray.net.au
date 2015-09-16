@@ -9,7 +9,7 @@
 .. author: James Gray
 
 The old site has gone. Long live PHP and all that.  Basically I got tired of
-worrying about the security of an abandonned PHP-based CMS running behind
+worrying about the security of an abandoned PHP-based CMS running behind
 this new shiny site. Consequently I grabbed all the stories I thought were
 relevent (over 100) and ported them from HTML to `reStructuredText`_ and dropped
 them in.  However, I still need to recreate the galleries and other content
